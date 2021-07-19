@@ -1,7 +1,9 @@
 <template>
   <div id="app">
-    <NavBar />
-    <router-view></router-view>
+    <div class="container-fluid p-0">
+      <NavBar :name='concatName' />
+      <router-view></router-view>
+    </div>
   </div>
 </template>
 
@@ -9,20 +11,19 @@
 import NavBar from './components/NavBar.vue'
 
 export default {
-  name: 'App',
+  firstname: 'Yani',
+  lastname: 'OULHADJ',
   components: {
     NavBar
+  },
+  computed: {
+    concatName() {
+      return `${this.firstname} ${this.lastname}`
+    }
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+@import './assets/scss/styles.scss';
 </style>
