@@ -1,8 +1,8 @@
-import About from '@/components/About.vue'
-import Experience from '@/components/Experience.vue'
-import Study from '@/components/Study.vue'
-import Skill from '@/components/Skill.vue'
-import Hobby from '@/components/Hobby.vue'
+import About from '@/pages/About.vue'
+import Experience from '@/pages/Experience.vue'
+import Study from '@/pages/Study.vue'
+import Skill from '@/pages/Skill.vue'
+import Hobby from '@/pages/Hobby.vue'
 
 const routes = [
     { path: '/', name: 'about', component: About},

@@ -6,7 +6,7 @@
                 <div class="flex-grow-1">
                     <h3 class="mb-0">Développeur Web et Mobile (Android)</h3>
                     <div class="subheading mb-3">SNCF (Saint-Denis)</div>
-                    <p>Développement Java (Framework Spring), Kotlin (Android, librairie JetPack), HTML5, CSS3, Javascript (VueJs), identification et cadrage des besoins métiers.</p>
+                    <p>Développement WEB (HTML5, CSS3, Javascript (VueJs, ES6), Vuetify), développement API REST (Java, Framework Spring Boot), développement Mobile (Kotlin, Android, librairie JetPack), développement solution de monitoring (Stack ELK => ElasticSearch, Logstash, Kibana), identification et cadrage des besoins métiers.</p>
                 </div>
                 <div class="flex-shrink-0"><span class="text-primary">Juin 2019 - Present</span></div>
             </div>

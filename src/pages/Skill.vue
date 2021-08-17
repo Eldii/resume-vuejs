@@ -16,19 +16,19 @@
         </li>
         <li>
           <span class="fa-li"><i class="fas fa-check"></i></span>
+          Javascript (VueJS, ReactJS, NodeJS, Jquery)
+        </li>
+        <li>
+          <span class="fa-li"><i class="fas fa-check"></i></span>
+          Java (Spring Boot)
+        </li>
+        <li>
+          <span class="fa-li"><i class="fas fa-check"></i></span>
           PHP5/7 (Symfony)
         </li>
         <li>
           <span class="fa-li"><i class="fas fa-check"></i></span>
-          Javascript (ReactJS, VueJS, AngularJS, NodeJS, Jquery)
-        </li>
-        <li>
-          <span class="fa-li"><i class="fas fa-check"></i></span>
           Python (Django)
-        </li>
-        <li>
-          <span class="fa-li"><i class="fas fa-check"></i></span>
-          Java (Spring)
         </li>
         <li>
           <span class="fa-li"><i class="fas fa-check"></i></span>
